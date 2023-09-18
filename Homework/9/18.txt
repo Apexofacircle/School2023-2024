@@ -1,11 +1,15 @@
 History{
-    One-Child Policy article and Reaction journal
+    One-Child Policy article and Reaction journal - DONE
 }
 
 Math{
-    Make corrections on Friday. HW (answers will be in email)
+    Make corrections on Friday. HW (answers will be in email) - DONE 
 }
 
 Piziks{
     Finish through initial experiment setup - DONE
+}
+
+Engineering{
+    Film sheet - DONE
 }
