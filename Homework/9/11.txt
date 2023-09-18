@@ -1,0 +1,13 @@
+Math:
+    - Function features review - DONE
+
+History:
+    - Work on Project Slides - DONE
+
+Piziks:
+    - Create Nuts & Bolts Vocab study tool and share it with Mr. Franson - DONE
+
+Engineering:
+    - Project Ideas - DONE
+
+    

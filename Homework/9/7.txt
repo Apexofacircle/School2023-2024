@@ -1,0 +1,11 @@
+English:
+    Select an episode or short film for the Cinema Motifs Analysis assignment. - DONE
+
+Math:
+    Function features homework - DONE
+
+Physics:
+    Fascinating Physics - DONE
+
+Engineering:
+    Slow Roller Reflection  - DONE

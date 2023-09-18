@@ -1,0 +1,8 @@
+Math:
+    Desmose - DONE
+
+English:
+    Annotate - DONE
+
+History:
+    Finish slides - DONE
