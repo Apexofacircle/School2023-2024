@@ -7,5 +7,5 @@ Math{
 }
 
 Piziks{
-    Finish through initial experiment setup
+    Finish through initial experiment setup - DONE
 }
