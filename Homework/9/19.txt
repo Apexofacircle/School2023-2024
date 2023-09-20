@@ -1,11 +1,11 @@
 English{
-    Read and annotate pages. 13-21
+    Read and annotate pages. 13-21 - DONE
 }
 
 History{
-    West Taiwan and Taiwan Article Reading Questions
+    West Taiwan and Taiwan Article Reading Questions - DONE
 }
 
 Math{
-    1.6
+    1.6 - DONE - DONE
 }
