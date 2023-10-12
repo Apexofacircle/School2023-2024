@@ -1,7 +1,11 @@
 English{
-    3 analysis journal entries for “Starvation”
+    3 analysis journal entries for “Starvation” - DONE
 }
 
 Math{
-    1.6 Complete Piecewise Review
+    1.6 Complete Piecewise Review - DONE
+}
+
+ASL{
+    Come ip with 20 frases form unit one and 2
 }

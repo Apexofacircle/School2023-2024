@@ -1,0 +1,15 @@
+Engineering{
+    Create a study tool for EDP Vocab - DONE
+}
+
+History{
+    Current Events quiz tomorrow
+}
+
+Physics{
+    Prepare for Nuts & Bolts Vocab quiz tomorrow
+}
+
+English{
+    Read and annotate pgs. 22-28 - DONE
+}
