@@ -22,3 +22,13 @@
 - Body
 - food / animals
 - Ethics
+
+## Mao's Enemies
+
+- Nationalists
+- Wealthy
+- Disagree / people
+- Educated people
+- Imperialists
+- Landlords
+- business owners
