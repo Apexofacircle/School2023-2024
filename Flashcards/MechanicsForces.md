@@ -1,61 +1,48 @@
-# Mechanics amd motion
+# Motion
 
 ## Vocab
 
-### Mechanics
+### Newton's 1st Law
 
-objects at rest and in motion
+An object at rest will stay at rest, and an object in
+motion will stay in motion, until a net force acts upon it
 
-___
+### Newton's 2nd Law
 
-### Fluids
+The greater the mass of an object, the more force it will take to accelerate the object. The greater the force acting on an object, the greater the acceleration of the object. F = ma
 
-how fluid substances (liquids and gases) behave
+### Newton's 3rd Law
 
-___
+For every action there is an equal and opposite reaction
 
-### Thermodynamics
+### Inertia
 
-heat and heat transfer
+The resistance an object has to change its state of motion. The more massive an object is, the more it tends to resist a change in motion.
 
-___
+### Mass
 
-### Waves
+How much matter—or "stuff"—is in an object. Mass is not dependent on physical size!
 
-wave motion and sound
+### Force
 
-___
+A push or pull
 
-### Optics
+### Weight
 
-light
+The force of gravity acting on an object
 
-___
+### Normal Force
 
-### Electricity & Magnetism
+The force that surfaces exert to prevent bodies from passing through each other
 
-each of these and their interactions
+### Friction
 
-___
+The force between two surfaces that prevents those surfaces from sliding or slipping across each other
 
-### Modern Physics
+### Drag
 
-relativity, quantum mechanics, nuclear
+A force acting opposite to the motion of an object moving through a fluid (gas or liquid)
 
-## Motion Broken Down
+### Free Body Diagram
 
-- Motion in One Direction
-- Motion in Two Directions
-- Forces
-- Linear Momentum
-- Work, Energy, and Power
-- Uniform Circular Motion
-
-## Forces Broken Down
-
-- Newton's Laws of Motion
-- Inertia, Mass, Force
-- Weight
-- Friction
-- Drag
-- Free Body Diagrams
+A way to visualize applied forces acting on an object
