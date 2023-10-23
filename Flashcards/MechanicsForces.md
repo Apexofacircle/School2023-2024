@@ -6,39 +6,37 @@
 
 objects at rest and in motion
 
----
+___
 
 ### Fluids
 
 how fluid substances (liquids and gases) behave
 
----
+___
 
 ### Thermodynamics
 
 heat and heat transfer
 
----
+___
 
 ### Waves
 
 wave motion and sound
 
----
+___
 
 ### Optics
 
 light
 
----
+___
 
 ### Electricity & Magnetism
 
 each of these and their interactions
 
----
-
-***
+___
 
 ### Modern Physics
 
